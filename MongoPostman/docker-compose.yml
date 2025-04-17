@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongodb #zavisi od mongodb servera
+    environment:
+    - MONGO_URL=mongodb://host.docker.internal:27017/UsersDB  #MONGO_URL=mongodb://mongo:27017/mojaBaza - pokrece novu instancu mongobd i zato je get zahtev prazna lista
+    volumes:
+      - .:/app
+    command: node index.js
+
+  mongodb:
+    image: mongo 
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db #trajno cuvanje podataka
+
+volumes:
+  mongo-data:
