@@ -2,6 +2,10 @@ const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
 
+function cleanString(str) {
+  return str.replace(/[^\w\s]/g, '').replace(/\s+/g, '_'); 
+}
+
 const inputFolder = './csv/';
 const outputFolder = './json/';
 
@@ -29,16 +33,19 @@ fs.readdir(inputFolder, (err, files) => {
       .pipe(csv({ separator: ';'}))
       .on('data', (row) => {
         if(isFirstRow){
-          type = Object.keys(row).join(';');
+          type = cleanString(Object.keys(row).join('_')) || 'GenericEntity';
           isFirstRow = false;
         }
 
-        const id = `entity_${path.basename(file, '.csv')}_${String(counter).padStart(3, '0')}`;
-       // const type = 'GenericEntity';
+        const id = `entity_${String(counter).padStart(3, '0')}`;
 
         const entity = { id, type };
 
         Object.entries(row).forEach(([key, val]) => {
+
+          if (key.trim() === "") key == 'GenericName'; 
+
+          const cleanedKey = cleanString(key);
           const numberVal = parseFloat(val);
           entity[key] = {
             value: isNaN(numberVal) ? val : numberVal,

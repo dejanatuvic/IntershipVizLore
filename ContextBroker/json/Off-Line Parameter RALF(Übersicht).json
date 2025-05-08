@@ -1,7 +1,7 @@
 [
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_001",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_001",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 5.31,
       "type": "Number"
@@ -100,8 +100,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_002",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_002",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 6.13,
       "type": "Number"
@@ -200,8 +200,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_003",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_003",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 8.7,
       "type": "Number"
@@ -300,8 +300,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_004",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_004",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 8.14,
       "type": "Number"
@@ -400,8 +400,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_005",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_005",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 8.21,
       "type": "Number"
@@ -500,8 +500,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_006",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_006",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 10.4,
       "type": "Number"
@@ -600,8 +600,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_007",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_007",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 10.11,
       "type": "Number"
@@ -700,8 +700,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_008",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_008",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 10.18,
       "type": "Number"
@@ -800,8 +800,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_009",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_009",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 11.6,
       "type": "Number"
@@ -900,8 +900,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_010",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_010",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 11.14,
       "type": "Number"
@@ -1000,8 +1000,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_011",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_011",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 11.27,
       "type": "Number"
@@ -1100,8 +1100,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_012",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_012",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 12.4,
       "type": "Number"
@@ -1200,8 +1200,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_013",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_013",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 12.17,
       "type": "Number"
@@ -1300,8 +1300,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_014",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_014",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 12.27,
       "type": "Number"
@@ -1400,8 +1400,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_015",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_015",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 1.15,
       "type": "Number"
@@ -1500,8 +1500,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_016",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_016",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 2.19,
       "type": "Number"
@@ -1600,8 +1600,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_017",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_017",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 3.4,
       "type": "Number"
@@ -1700,8 +1700,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_018",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_018",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 3.13,
       "type": "Number"
@@ -1800,8 +1800,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_019",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_019",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 3.2,
       "type": "Number"
@@ -1900,8 +1900,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_020",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_020",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 3.27,
       "type": "Number"
@@ -2000,8 +2000,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_021",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_021",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 4.3,
       "type": "Number"
@@ -2100,8 +2100,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_022",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_022",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 4.16,
       "type": "Number"
@@ -2200,8 +2200,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_023",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_023",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 4.23,
       "type": "Number"
@@ -2300,8 +2300,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_024",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_024",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": "XX.05.2024",
       "type": "Text"
@@ -2400,8 +2400,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_025",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_025",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": "XX.05.2024",
       "type": "Text"
@@ -2500,8 +2500,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_026",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_026",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 6.4,
       "type": "Number"
@@ -2600,8 +2600,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_027",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_027",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 6.12,
       "type": "Number"
@@ -2700,8 +2700,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_028",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_028",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 6.19,
       "type": "Number"
@@ -2800,8 +2800,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_029",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_029",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 7.24,
       "type": "Number"
@@ -2900,8 +2900,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_030",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_030",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 8.1,
       "type": "Number"
@@ -3000,8 +3000,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_031",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_031",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 8.8,
       "type": "Number"
@@ -3100,8 +3100,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_032",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_032",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 8.14,
       "type": "Number"
@@ -3200,8 +3200,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_033",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_033",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 8.21,
       "type": "Number"
@@ -3300,8 +3300,8 @@
     }
   },
   {
-    "id": "entity_Off-Line Parameter RALF(Übersicht)_034",
-    "type": "Erntetag;Dauer Fermentation [Tage];Dauer Wachstum Vorkulturen [Tage];Vorkulturen zerkleinert [ja/ nein];Vorkulturen Inokualtionsvolumen [% von Medienvolumen];Medienvolumen [L];Medienkonzentration R�benschnitzel [g/L];Medienkonzentration Melasse [g/L];Gesamtvolumen nach Inokulation [L];Begasungsrate [vvm];Spargertyp [alt/neu];R�hrer Drehzahl [rpm];Art des R�hrwerks;pH geregelt [ja/ nein];Temperatur geregelt [ja/nein];Antischaum geregelt [ja/ nein];Anmerkungen;Ausf�lle;Relevante Abschnitte Aufzeichnung Reaktor;Feuchtmasse [g];Trockenmasse [g];Proteingehalt [g/100g TM];Ergosterol [g/100g TM];Chitin-Gehalt [g/ 100 gTM]",
+    "id": "entity_034",
+    "type": "Erntetag_Dauer_Fermentation_Tage_Dauer_Wachstum_Vorkulturen_Tage_Vorkulturen_zerkleinert_ja_nein_Vorkulturen_Inokualtionsvolumen_von_Medienvolumen_Medienvolumen_L_Medienkonzentration_Rbenschnitzel_gL_Medienkonzentration_Melasse_gL_Gesamtvolumen_nach_Inokulation_L_Begasungsrate_vvm_Spargertyp_altneu_Rhrer_Drehzahl_rpm_Art_des_Rhrwerks_pH_geregelt_ja_nein_Temperatur_geregelt_janein_Antischaum_geregelt_ja_nein_Anmerkungen_Ausflle_Relevante_Abschnitte_Aufzeichnung_Reaktor_Feuchtmasse_g_Trockenmasse_g_Proteingehalt_g100g_TM_Ergosterol_g100g_TM_ChitinGehalt_g_100_gTM",
     "Erntetag": {
       "value": 8.28,
       "type": "Number"
