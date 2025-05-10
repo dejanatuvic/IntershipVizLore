@@ -6,63 +6,63 @@
       "value": 5.31,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "alt",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -70,31 +70,31 @@
       "value": "erster Lauf mit neuem Kompressor",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 430,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 27,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 13,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": 2,
       "type": "Number"
     }
@@ -106,63 +106,63 @@
       "value": 6.13,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "alt",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -170,31 +170,31 @@
       "value": "viel Schaum, daher hoher Restanteil R�benschnitzel",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 467,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 28,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 12,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": 2,
       "type": "Number"
     }
@@ -206,63 +206,63 @@
       "value": 8.7,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "alt",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -270,31 +270,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 408,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 52,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 10,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": 2,
       "type": "Number"
     }
@@ -306,63 +306,63 @@
       "value": 8.14,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 5,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 150,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -370,31 +370,31 @@
       "value": "erster Lauf mit neuem Sparger",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 700,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 77,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 9,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": 2,
       "type": "Number"
     }
@@ -406,63 +406,63 @@
       "value": 8.21,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 170,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -470,31 +470,31 @@
       "value": "schlechte Durchmischung im Bodenbereich, Spr�nge in O2-Sonde deuten auf Zuwachsen hin",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 650,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 51,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 11,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": 3,
       "type": "Number"
     }
@@ -506,63 +506,63 @@
       "value": 10.4,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 7,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 200,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -570,31 +570,31 @@
       "value": "viel Mycel am Sparger festgewachsen, Sauerstoff bei nahezu 0 %",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 750,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 70,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 11,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -606,63 +606,63 @@
       "value": 10.11,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 8,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 220,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja (Base leer am 10.10.)",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -670,31 +670,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 435,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 96,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 11,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -706,63 +706,63 @@
       "value": 10.18,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 45,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 22,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -770,31 +770,31 @@
       "value": "viel Mycel, Sauerstoff stark gesunken (zum ende 20%)",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 813,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 91,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 11,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -806,63 +806,63 @@
       "value": 11.6,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 30,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 45,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 22,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 210,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -870,31 +870,31 @@
       "value": "starke Schaumbildung",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 750,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 109,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 10,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -906,63 +906,63 @@
       "value": 11.14,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 190,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -970,31 +970,31 @@
       "value": "gute Sauerstoffs�ttigung zum Ende; starke Schaumbildung",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 523,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 70,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 10,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1006,63 +1006,63 @@
       "value": 11.27,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": "-",
       "type": "Text"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": "-",
       "type": "Text"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 210,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -1070,31 +1070,31 @@
       "value": "Lauf mit ME (20 g/L)",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "AF-Pumpe",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 217,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 16,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1106,63 +1106,63 @@
       "value": 12.4,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 200,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -1170,31 +1170,31 @@
       "value": "guter Ansatz",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 798,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 73,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 10,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1206,63 +1206,63 @@
       "value": 12.17,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": "war hier ein Lauf???",
       "type": "Text"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": "Kontaminiert",
       "type": "Text"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": "",
       "type": "Text"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": "",
       "type": "Text"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": "",
       "type": "Text"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": "",
       "type": "Text"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": "",
       "type": "Text"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": "",
       "type": "Text"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": "",
       "type": "Text"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "",
       "type": "Text"
     },
@@ -1270,31 +1270,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1306,63 +1306,63 @@
       "value": 12.27,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 45,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 22,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 210,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -1370,31 +1370,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 693,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 129,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 9,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1406,63 +1406,63 @@
       "value": 1.15,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 30,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 45,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 22,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -1470,31 +1470,31 @@
       "value": "R�hrer zeigte bei 230 kaum Wirkung, daher nach 2 Tagen auf 450-500 hochgesetzt ",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 1002,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 117,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 11,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1506,63 +1506,63 @@
       "value": 2.19,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 250,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -1570,31 +1570,31 @@
       "value": "nur die H�lfte wurde geerntet",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 185,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 27,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 11,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1606,63 +1606,63 @@
       "value": 3.4,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 60,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 400,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -1670,31 +1670,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 880,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": 155,
       "type": "Number"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": 10,
       "type": "Number"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": 0,
       "type": "Number"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1706,63 +1706,63 @@
       "value": 3.13,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 60,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 300,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -1770,31 +1770,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 756,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1806,63 +1806,63 @@
       "value": 3.2,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 40,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 60,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 300,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -1870,31 +1870,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 965,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -1906,63 +1906,63 @@
       "value": 3.27,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 60,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 400,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -1970,31 +1970,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2006,63 +2006,63 @@
       "value": 4.3,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": "gekippt",
       "type": "Text"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": "",
       "type": "Text"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": "",
       "type": "Text"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": "",
       "type": "Text"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": "",
       "type": "Text"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": "",
       "type": "Text"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": "",
       "type": "Text"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": "",
       "type": "Text"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": "",
       "type": "Text"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "",
       "type": "Text"
     },
@@ -2070,31 +2070,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2106,63 +2106,63 @@
       "value": 4.16,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 60,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 250,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -2170,31 +2170,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 771,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2206,63 +2206,63 @@
       "value": 4.23,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 40,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 60,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 400,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
@@ -2270,31 +2270,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 1090,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2306,63 +2306,63 @@
       "value": "XX.05.2024",
       "type": "Text"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": "gekippt",
       "type": "Text"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": "",
       "type": "Text"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": "",
       "type": "Text"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": "",
       "type": "Text"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": "",
       "type": "Text"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": "",
       "type": "Text"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": "",
       "type": "Text"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": "",
       "type": "Text"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": "",
       "type": "Text"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "",
       "type": "Text"
     },
@@ -2370,31 +2370,31 @@
       "value": "�bersteuerung der AF-Sonde f�hrte zu unkontrolliertem Zulauf; Ernte nicht verwertbar",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2406,63 +2406,63 @@
       "value": "XX.05.2024",
       "type": "Text"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": "gekippt",
       "type": "Text"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": "",
       "type": "Text"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": "",
       "type": "Text"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": "",
       "type": "Text"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": "",
       "type": "Text"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": "",
       "type": "Text"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": "",
       "type": "Text"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": "",
       "type": "Text"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": "",
       "type": "Text"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "",
       "type": "Text"
     },
@@ -2470,31 +2470,31 @@
       "value": "�bersteuerung der AF-Sonde f�hrte zu unkontrolliertem Zulauf; Ernte nicht verwertbar",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2506,63 +2506,63 @@
       "value": 6.4,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -2570,31 +2570,31 @@
       "value": "sehr w�ssrig, kaum Abtrennung von Myzel und Medium durch abpressen",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 162,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2606,63 +2606,63 @@
       "value": 6.12,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -2670,31 +2670,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 202,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2706,63 +2706,63 @@
       "value": 6.19,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -2770,31 +2770,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 630,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2806,63 +2806,63 @@
       "value": 7.24,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 60,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 400,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -2870,31 +2870,31 @@
       "value": "sehr dickfl�ssig, kaum Durchmischung m�glich, optisch schlechtes Pilzwachstum",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 1183,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -2906,63 +2906,63 @@
       "value": 8.1,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 7,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 40,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 60,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 30,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 300,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -2970,31 +2970,31 @@
       "value": "Fl�ssigkeitsverlust durch Auslaufen, ca. 600 mL ausgelaufen",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 929,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -3006,63 +3006,63 @@
       "value": 8.8,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -3070,31 +3070,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 192,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -3106,63 +3106,63 @@
       "value": 8.14,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 2,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": "",
       "type": "Text"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -3170,31 +3170,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -3206,63 +3206,63 @@
       "value": 8.21,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 10,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 3,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -3270,31 +3270,31 @@
       "value": "Pilz nicht homogenisiert vor Inokulation",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": 153,
       "type": "Number"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }
@@ -3306,63 +3306,63 @@
       "value": 8.28,
       "type": "Number"
     },
-    "Dauer Fermentation [Tage]": {
+    "Dauer_Fermentation_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Dauer Wachstum Vorkulturen [Tage]": {
+    "Dauer_Wachstum_Vorkulturen_Tage": {
       "value": 6,
       "type": "Number"
     },
-    "Vorkulturen zerkleinert [ja/ nein]": {
+    "Vorkulturen_zerkleinert_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
       "value": 20,
       "type": "Number"
     },
-    "Medienvolumen [L]": {
+    "Medienvolumen_L": {
       "value": 2,
       "type": "Number"
     },
-    "Medienkonzentration R�benschnitzel [g/L]": {
+    "Medienkonzentration_Rbenschnitzel_gL": {
       "value": 15,
       "type": "Number"
     },
-    "Medienkonzentration Melasse [g/L]": {
+    "Medienkonzentration_Melasse_gL": {
       "value": 7,
       "type": "Number"
     },
-    "Gesamtvolumen nach Inokulation [L]": {
+    "Gesamtvolumen_nach_Inokulation_L": {
       "value": 3,
       "type": "Number"
     },
-    "Begasungsrate [vvm]": {
+    "Begasungsrate_vvm": {
       "value": 1,
       "type": "Number"
     },
-    "Spargertyp [alt/neu]": {
+    "Spargertyp_altneu": {
       "value": "neu",
       "type": "Text"
     },
-    "R�hrer Drehzahl [rpm]": {
+    "Rhrer_Drehzahl_rpm": {
       "value": 230,
       "type": "Number"
     },
-    "Art des R�hrwerks": {
+    "Art_des_Rhrwerks": {
       "value": "Rushtone impeller",
       "type": "Text"
     },
-    "pH geregelt [ja/ nein]": {
+    "pH_geregelt_ja_nein": {
       "value": "ja",
       "type": "Text"
     },
-    "Temperatur geregelt [ja/nein]": {
+    "Temperatur_geregelt_janein": {
       "value": "ja",
       "type": "Text"
     },
-    "Antischaum geregelt [ja/ nein]": {
+    "Antischaum_geregelt_ja_nein": {
       "value": "nein",
       "type": "Text"
     },
@@ -3370,31 +3370,31 @@
       "value": "",
       "type": "Text"
     },
-    "Ausf�lle": {
+    "Ausflle": {
       "value": "",
       "type": "Text"
     },
-    "Relevante Abschnitte Aufzeichnung Reaktor": {
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
       "value": "",
       "type": "Text"
     },
-    "Feuchtmasse [g]": {
+    "Feuchtmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Trockenmasse [g]": {
+    "Trockenmasse_g": {
       "value": "",
       "type": "Text"
     },
-    "Proteingehalt [g/100g TM]": {
+    "Proteingehalt_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Ergosterol [g/100g TM]": {
+    "Ergosterol_g100g_TM": {
       "value": "",
       "type": "Text"
     },
-    "Chitin-Gehalt [g/ 100 gTM]": {
+    "ChitinGehalt_g_100_gTM": {
       "value": "",
       "type": "Text"
     }

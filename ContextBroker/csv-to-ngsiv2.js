@@ -28,6 +28,7 @@ fs.readdir(inputFolder, (err, files) => {
 
     let counter = 1;
     let isFirstRow = true;
+    let counter2 = 1;
 
     fs.createReadStream(inputPath)
       .pipe(csv({ separator: ';'}))
@@ -43,11 +44,14 @@ fs.readdir(inputFolder, (err, files) => {
 
         Object.entries(row).forEach(([key, val]) => {
 
-          if (key.trim() === "") key == 'GenericName'; 
+          let cleanedKey = cleanString(key.trim());
 
-          const cleanedKey = cleanString(key);
+          if(!cleanedKey){
+            cleanedKey = `attribut_${String(counter2).padStart(3, '0')}`;
+            counter2++;
+          }
           const numberVal = parseFloat(val);
-          entity[key] = {
+          entity[cleanedKey] = {
             value: isNaN(numberVal) ? val : numberVal,
             type: isNaN(numberVal) ? 'Text' : 'Number'
           };
