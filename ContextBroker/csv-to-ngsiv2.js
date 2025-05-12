@@ -21,7 +21,7 @@ fs.readdir(inputFolder, (err, files) => {
 
   const csvFiles = files.filter(file => file.endsWith('.csv'));
 
-  csvFiles.forEach(file => {
+  csvFiles.forEach((file, fileIndex) => {
     const inputPath = path.join(inputFolder, file);
     const outputPath = path.join(outputFolder, file.replace('.csv', '.json'));
     const results = [];
@@ -29,6 +29,8 @@ fs.readdir(inputFolder, (err, files) => {
     let counter = 1;
     let isFirstRow = true;
     let counter2 = 1;
+
+    const fileCounter = `fajl${fileIndex + 1}`;
 
     fs.createReadStream(inputPath)
       .pipe(csv({ separator: ';'}))
@@ -38,7 +40,7 @@ fs.readdir(inputFolder, (err, files) => {
           isFirstRow = false;
         }
 
-        const id = `entity_${String(counter).padStart(3, '0')}`;
+        const id = `entity_${fileCounter}_${String(counter).padStart(3, '0')}`;
 
         const entity = { id, type };
 

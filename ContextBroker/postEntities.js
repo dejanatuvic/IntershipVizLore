@@ -1,7 +1,7 @@
 const fs = require ('fs');
 const axios = require('axios');
 
-const entities = JSON.parse(fs.readFileSync('json/20240826_ZEST_R4_Clean(Raw_Data).json'));
+const entities = JSON.parse(fs.readFileSync('json/On-Line Parameter RALF(21.08.json'));
 
 entities.forEach(async (entitiy) => {
     try {
