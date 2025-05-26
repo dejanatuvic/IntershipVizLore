@@ -27,5 +27,29 @@ services:
     volumes:
       - mongo-db:/data/db
 
+  mongo-users:
+    image: mongo:6
+    container_name: mongo-users
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongo-users-data:/data/db
+
+  backend:
+    build: ../backend
+    container_name: backend-server
+    ports:
+      - "5000:5000"
+    depends_on:
+      - mongo-users
+    environment:
+      - MONGO_URI=mongodb://mongo-users:27017/ContextBrokerUsers
+      - JWT_SECRET=jwt_secret
+    volumes:
+      - ../backend:/usr/src/app
+    working_dir: /usr/src/app
+    command: node server.js
+
 volumes:
   mongo-db: {}
+  mongo-users-data: {}

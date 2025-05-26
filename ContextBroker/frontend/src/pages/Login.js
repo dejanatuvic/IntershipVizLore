@@ -35,7 +35,7 @@ export default function Login() {
 
   return (
     <div className="container mt-5" style={{ maxWidth: '400px' }}>
-      <h2 className="mb-4">Login</h2>
+      <h2 className="mb-3">Login</h2>
       {errorMsg && <div className="alert alert-danger">{errorMsg}</div>}
       <form onSubmit={handleLogin}>
         <div className="mb-3">

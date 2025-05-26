@@ -39,7 +39,7 @@ export default function Register() {
 
   return (
     <div className="container mt-5" style={{ maxWidth: '400px' }}>
-      <h2 className="mb-4">Register</h2>
+      <h2 className="mb-3">Register</h2>
       {errorMsg && <div className="alert alert-danger">{errorMsg}</div>}
       <form onSubmit={handleLogin}>
         <div className="mb-3">
@@ -72,7 +72,7 @@ export default function Register() {
             className="form-control"
             id="password"
             required
-            value={password}
+            value={comfPassword}
             onChange={(e) => setComfPassword(e.target.value)}
             placeholder="Repeat your password"
           />
@@ -80,7 +80,7 @@ export default function Register() {
         <button type="submit" className="btn btn-primary w-100">Sing up</button>
       </form>
       <p className="mt-3">
-        Already have an account? <a href="/">Sing in</a>
+        Already have an account? <a href="/login">Sing in</a>
       </p>
     </div>
   );
