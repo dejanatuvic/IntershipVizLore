@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 export default function Upload() {
   const [file, setFile] = useState(null);
   const [message, setMessage] = useState('');
+  const [loading, setLoading] = useState(false);
 
   const handleFileChange = (e) => {
     setFile(e.target.files[0]);
@@ -16,6 +17,9 @@ export default function Upload() {
       setMessage('Choose CSV file');
       return;
     }
+
+    setLoading(true);
+    setMessage('');
 
     const formData = new FormData();
     formData.append('file', file);
@@ -40,6 +44,8 @@ export default function Upload() {
       }
     } catch (error) {
       setMessage('Server error.');
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -62,10 +68,13 @@ export default function Upload() {
             id="file"
             accept=".csv"
             onChange={handleFileChange}
+            disabled={loading}
           />
         </div>
 
-        <button type="submit" className="btn btn-primary w-100">Upload</button>
+        <button type="submit" className="btn btn-primary w-100" disabled={loading}>
+          {loading ? 'Uploading...' : 'Upload'}
+          </button>
       </form>
     </div>
   );
