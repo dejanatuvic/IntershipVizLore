@@ -1,17 +1,6 @@
 const csvToNgsi = require('../uploadData/csv-to-ngsiv2');
 const postEntities = require('../uploadData/postEntities');
 
-// const uploadData = async (req, res) => {
-//   try {
-//     const filePath = req.file.path;
-//     const entities = await csvToNgsi(filePath);
-//     await postEntities(entities);
-//     res.json({ message: 'The data has been successfully converted and sent to the Context Broker.' });
-//   } catch (err) {
-//     console.error(err);
-//     res.status(500).json({ error: 'Error while processing the file.' });
-//   }
-// };
 
 const uploadData = async (req, res) => {
   try {

@@ -49,6 +49,20 @@ services:
       - ../backend:/usr/src/app
     working_dir: /usr/src/app
     command: node server.js
+  
+  frontend:
+    build:
+      context: ../frontend
+    container_name: frontend-dev
+    ports:
+      - "3000:3000"
+    volumes:
+      - ../frontend:/app
+      - /app/node_modules
+    stdin_open: true
+    tty: true
+    environment:
+      - CHOKIDAR_USEPOLLING=true
 
 volumes:
   mongo-db: {}
